@@ -1,0 +1,4 @@
+name: wys2d
+channels:
+  - defaults
+prefix: /user/tristan.a/miniconda3/envs/wys2d
